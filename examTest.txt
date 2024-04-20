@@ -1,3 +1,4 @@
-
-2. examTest file is looking for some personal info!
+There is some info about your activity:
+...
+...
 
